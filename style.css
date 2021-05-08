@@ -1,0 +1,172 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+
+.header{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.nav-item{
+    float: right;
+}
+.nav-item a{
+    text-decoration: none;
+    color: #3C3C3C;
+    font-size: 16px;
+    font-weight: normal;
+    padding: 8px;
+}
+
+.intro-line{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    letter-spacing: 4px;
+}
+.hello{
+    color: #363958;
+}
+
+.about{
+    color: #363958; 
+}
+.name{
+    color: #FF8367;
+}
+
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.btn{
+    background-color: #F86A61;
+    text-decoration: none;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.half-width img{
+    width: 80%;
+}
+
+.intro{
+    margin-top: 100px;
+}
+
+.intro p{
+    color: #3E3E3E;
+}
+
+.top-banner{
+    height: 600px;
+}
+
+.about-us{
+    height: 600px;
+}
+
+.projects{
+    height: 750px;
+    background-color: #F8F9FC;
+    padding-top: 20px;
+}
+
+.project-sample{
+    width: 30%;
+    height: 400px;
+    float: left;
+    margin-left: 3%;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.sample{
+    padding: 3%;
+}
+.sample img{
+    width: 100%;
+   
+}
+
+.sample h2 {
+    color: #363958;
+}
+
+.sample p{
+    color: #6C6C6C;
+}
+
+.projects-title{
+    text-align: center;
+}
+.latest{
+    color: #F46060;
+}
+.working-projects{
+    color: #363958;
+}
+
+.contact-banner{
+    height: 700px;
+    background-color: white;
+    padding-top: 100px;
+}
+
+.inquiry{
+    height: 400px;
+    background-image: url(./shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 70%;
+    margin: auto;
+    
+}
+
+.text-part{
+    width: 60%;
+    float: left;
+    padding-top: 45px;
+    padding-left: 140px;
+}
+
+.text-part h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    letter-spacing: 4px;
+    color: white;
+}
+
+.button-part{
+    width: 20%;
+    float: right;
+    padding-top: 90px;
+}
+
+.contact{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.contact img{
+    width: 10%
+}
+
+.contact h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    color: #696871;
+}
+
+.contact p{
+    color: #363958;
+}
